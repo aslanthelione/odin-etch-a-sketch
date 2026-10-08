@@ -15,3 +15,13 @@
 .painted {
     background-color: blue;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 8px;
+}
+
+button {
+
+}
