@@ -1,0 +1,17 @@
+.grid {
+    max-width: 960px;
+    height: 960px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    border: red solid 4px;
+}
+
+.tile {
+    box-sizing: border-box;
+    border: black solid 1px;
+}
+
+.painted {
+    background-color: blue;
+}
